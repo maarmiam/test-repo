@@ -1,2 +1,2 @@
 # test-repo
-test priject
+test project
